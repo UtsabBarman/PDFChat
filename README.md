@@ -4,7 +4,7 @@ This project allows you to interact with PDFs using a chatbot interface. It leve
 
 ## How to Run  (Python 3.9.6)
 
-1. Create a virtual env with Python 3.9.6
+1. Create a virtual env with Python 3.9.6 and activate it
 2. Download the repo from git and go to the project dir
 3. Create an OpenAI API key and put it in ´config.json´ under "OPENAI_API_KEY"
 4. Create a Gemini API key and put it in ´config.json´ under "GOOGLE_API_KEY"
